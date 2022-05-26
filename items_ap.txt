@@ -1,0 +1,211 @@
+"Store"
+{
+	"武器皮肤"
+	{
+		"AK47-嘉然"
+		{
+			"model" "models/weapons/v_akjaran.mdl" 
+            "worldmodel" "models/weapons/w_akjaran.mdl" 
+            "dropmodel"   "models/weapons/w_akjaran_dropped.mdl"
+        	"Plans"
+				{
+					"30天"
+					{
+						"price"		"20000"
+						"time"		"2592000"
+					}
+					"365天"
+					{
+						"price"		"200000"
+						"time"		"31536000"
+					}
+				}
+			"entity"  "weapon_ak47"
+			"type"		"CustomModel" 
+			"unique_id"	"jiaranak"
+			"slot"   "0"
+		}
+		"AK47-火麒麟"
+		{
+			"model" "models/weapons/v_ak47_beast.mdl" 
+            "worldmodel" "models/weapons/w_ak47_beast.mdl" 
+            "dropmodel"   "models/weapons/w_ak47_beast_dropped.mdl"
+        	"Plans"
+				{
+					"30天"
+					{
+						"price"		"25000"
+						"time"		"2592000"
+					}
+					"365天"
+					{
+						"price"		"280000"
+						"time"		"31536000"
+					}
+				}
+			"entity"  "weapon_ak47"
+			"type"		"CustomModel" 
+			"unique_id"	"huoqiling"
+			"slot"   "0"
+		}
+		"M4A4-墨冰"
+		{
+			"model" "models/weapons/v_m4a4mb.mdl" 
+            "worldmodel" "models/weapons/w_m4a4mb.mdl" 
+            "dropmodel"   "models/weapons/w_m4a4mb_dropped.mdl"
+        	"Plans"
+				{
+					"30天"
+					{
+						"price"		"18000"
+						"time"		"2592000"
+					}
+					"365天"
+					{
+						"price"		"180000"
+						"time"		"31536000"
+					}
+				}
+			"entity"  "weapon_m4a1"
+			"type"		"CustomModel" 
+			"unique_id"	"mobing"
+			"slot"   "1"
+		}
+				"M4A1-斯卡蒂"
+		{
+	    	"model" "models/weapons/v_m4sdika.mdl" 
+            "worldmodel" "models/weapons/w_m4sdika.mdl" 
+            "dropmodel"   "models/weapons/w_m4sdika_dropped.mdl"
+        	"Plans"
+				{
+					"30天"
+					{
+						"price"		"18000"
+						"time"		"2592000"
+					}
+					"365天"
+					{
+						"price"		"180000"
+						"time"		"31536000"
+					}
+				}
+			"entity"  "weapon_m4a1_silencer"
+			"type"		"CustomModel" 
+			"unique_id"	"sikadi"
+			"slot"   "1"
+		}
+		"AWP-天龙"
+		{
+             "model" "models/weapons/v_awp_infernal_dragon.mdl" 
+            "worldmodel" "models/weapons/w_awp_infernal_dragon.mdl" 
+            "dropmodel"   "models/weapons/w_awp_infernal_dragon_dropped.mdl"
+				"Plans"
+				{
+					"30天"
+					{
+						"price"		"18000"
+						"time"		"2592000"
+					}
+					"365天"
+					{
+						"price"		"180000"
+						"time"		"31536000"
+					}
+				}
+			"entity"  "weapon_awp"
+			"type"		"CustomModel" 
+			"unique_id"	"leiji"
+			"slot"   "2"
+		}
+				"AWP-巴雷特毁灭"
+		{
+             "model"  "models/bone/weapons/m82a1_bornbeast/v.mdl"
+            "worldmodel"  "models/bone/weapons/m82a1_bornbeast/w.mdl"
+            "dropmodel"  "models/bone/weapons/m82a1_bornbeast/w_dropped.mdl"
+				"Plans"
+				{
+					"30天"
+					{
+						"price"		"26000"
+						"time"		"2592000"
+					}
+					"365天"
+					{
+						"price"		"260000"
+						"time"		"31536000"
+					}
+				}
+			"entity"  "weapon_awp"
+			"type"		"CustomModel" 
+			"unique_id"	"huimie"
+			"slot"   "2"
+		}
+			"格洛克-武圣"
+		{
+             "model"  "models/weapons/v_glock18_gspirit.mdl"
+              "worldmodel"  "models/weapons/w_glock18_gspirit.mdl"
+				"Plans"
+				{
+					"30天"
+					{
+						"price"		"15000"
+						"time"		"2592000"
+					}
+					"365天"
+					{
+						"price"		"150000"
+						"time"		"31536000"
+					}
+				}
+			"entity"  "weapon_glock"
+			"type"		"CustomModel" 
+			"unique_id"	"wusheng"
+			"slot"   "3"
+		}
+			"沙漠之鹰-天神"
+		{
+             "model"  "models/bone/weapons/v_pist_deagle_eidorado.mdl"
+              "worldmodel"  "models/bone/weapons/w_pist_deagle_eidorado.mdl"
+				"Plans"
+				{
+					"30天"
+					{
+						"price"		"8000"
+						"time"		"2592000"
+					}
+					"365天"
+					{
+						"price"		"90000"
+						"time"		"31536000"
+					}
+				}
+			"entity"  "weapon_deagle"
+			"type"		"CustomModel" 
+			"unique_id"	"tianshen"
+			"slot"   "3"
+		}
+			"KNIFE-尼布尔"
+		{
+             "model"  "models/weapons/v_kukri.mdl"
+				"Plans"
+				{
+					"30天"
+					{
+						"price"		"10000"
+						"time"		"2592000"
+					}
+					"365天"
+					{
+						"price"		"90000"
+						"time"		"31536000"
+					}
+				}
+			"entity"  "weapon_knife"
+			"type"		"CustomModel" 
+			"unique_id"	"nibuer"
+			"slot"   "4"
+		}
+	}
+}
+
+

@@ -1,0 +1,78 @@
+"Store"
+{
+	"开通会员"
+	{
+		"KOD通行证"
+		{
+			"flags"		"a"
+			"type"		"admin"
+			"unique_id"		"vip_a"
+			"Plans"
+			{
+				"月卡"
+				{
+					"price"		"15000"
+					"time"		"2592000"
+				}
+				"季卡"
+				{
+					"price"		"45000"
+					"time"		"7776000"
+				}
+				"年卡"
+				{
+					"price"		"180000"
+					"time"		"31104000"
+				}
+			}
+		}
+			"完美平台优惠"
+		{
+			"flags"		"a"
+			"type"		"admin"
+			"unique_id"		"vip_b"
+			"Plans"
+			{
+				"完美世界竞技平台优惠政策"
+				{
+					"price"		"99999999"
+					"time"		"0"
+				}
+				"首月0.99元/次月10元"
+				{
+					"price"		"99999999"
+					"time"		"0"
+				}
+				"B站搜：KOD社区完美VIP"
+				{
+					"price"		"99999999"
+					"time"		"0"
+				}
+			}
+		}
+			"KOD登录器双平台"
+		{
+			"flags"		"a"
+			"type"		"admin"
+			"unique_id"		"vip_c"
+			"Plans"
+			{
+				"可在游戏/社区双平台通用"
+				{
+					"price"		"99999999"
+					"time"		"0"
+				}
+				"百度搜索：KOD社区"
+				{
+					"price"		"99999999"
+					"time"		"0"
+				}
+				"官方QQ群:503316666"
+				{
+					"price"		"99999999"
+					"time"		"0"
+				}
+			}
+		}
+	}
+}
